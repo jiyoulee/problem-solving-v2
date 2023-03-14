@@ -4,11 +4,11 @@
 
 ### 성능 요약
 
-메모리: 1136 KB, 시간: 3352 ms
+메모리: 116220 KB, 시간: 15268 ms
 
 ### 분류
 
-브루트포스 알고리즘(bruteforcing), 기하학(geometry), 피타고라스 정리(pythagoras)
+Bruteforcing, Geometry, Pythagoras Theorem
 
 ### 문제 설명
 
