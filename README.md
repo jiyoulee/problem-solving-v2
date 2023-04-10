@@ -1,6 +1,10 @@
 # problem-solving-v2
 
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+This repository is a personal archive of various algorithm practice problems (mainly from [Baekjoon](https://www.acmicpc.net/) and [Programmers](https://programmers.co.kr/)) and their solutions. Previous version(s) of the repository are as follows:
+
+* [problem-solving-v1](https://github.com/jiyoulee/problem-solving-v1)
+
+Automatic push features are supported by [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub). 
 
 ## Baekjoon Online Judge
 
@@ -18,6 +22,9 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
         1202. 보석 도둑
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Gold/1202.%E2%80%85%EB%B3%B4%EC%84%9D%E2%80%85%EB%8F%84%EB%91%91/%EB%B3%B4%EC%84%9D%E2%80%85%EB%8F%84%EB%91%91.cc">[C++]</a>
         <br>
+        17822. 원판 돌리기
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Gold/17822.%E2%80%85%EC%9B%90%ED%8C%90%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0/%EC%9B%90%ED%8C%90%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0.cc">[C++]</a>
+        <br>
         17837. 새로운 게임 2
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Gold/1202.%E2%80%85%EB%B3%B4%EC%84%9D%E2%80%85%EB%8F%84%EB%91%91/%EB%B3%B4%EC%84%9D%E2%80%85%EB%8F%84%EB%91%91.cc">[C++]</a>
     </p>
@@ -26,6 +33,9 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
     <p>
         2206. 벽 부수고 이동하기
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Gold/2206.%E2%80%85%EB%B2%BD%E2%80%85%EB%B6%80%EC%88%98%EA%B3%A0%E2%80%85%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/%EB%B2%BD%E2%80%85%EB%B6%80%EC%88%98%EA%B3%A0%E2%80%85%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.cc">[C++]</a>
+        <br>
+        9466. 텀 프로젝트
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Gold/9466.%E2%80%85%ED%85%80%E2%80%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%ED%85%80%E2%80%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.cc">[C++]</a>
         <br>
         16235. 나무 재테크
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Gold/16235.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%9E%AC%ED%85%8C%ED%81%AC/%EB%82%98%EB%AC%B4%E2%80%85%EC%9E%AC%ED%85%8C%ED%81%AC.cc">[C++]</a>
@@ -50,6 +60,12 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
     <p>
         16234. 인구 이동
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Gold/16234.%E2%80%85%EC%9D%B8%EA%B5%AC%E2%80%85%EC%9D%B4%EB%8F%99/%EC%9D%B8%EA%B5%AC%E2%80%85%EC%9D%B4%EB%8F%99.cc">[C++]</a>
+        <br>
+        20056. 마법사 상어와 파이어볼
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Gold/20056.%E2%80%85%EB%A7%88%EB%B2%95%EC%82%AC%E2%80%85%EC%83%81%EC%96%B4%EC%99%80%E2%80%85%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B3%BC/%EB%A7%88%EB%B2%95%EC%82%AC%E2%80%85%EC%83%81%EC%96%B4%EC%99%80%E2%80%85%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B3%BC.cc">[C++]</a>
+        <br>
+        21610. 마법사 상어와 비바라기
+        <a href="https://github.com/jiyoulee/problem-solving-v2/tree/main/%EB%B0%B1%EC%A4%80/Gold/21610.%E2%80%85%EB%A7%88%EB%B2%95%EC%82%AC%E2%80%85%EC%83%81%EC%96%B4%EC%99%80%E2%80%85%EB%B9%84%EB%B0%94%EB%9D%BC%EA%B8%B0">[C++]</a>
     </p>
     <!--Silver-->
     <!--Silver I-->
@@ -95,15 +111,21 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
         <br>
         2914. 저작권
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2914.%E2%80%85%EC%A0%80%EC%9E%91%EA%B6%8C/%EC%A0%80%EC%9E%91%EA%B6%8C.cc">[C++]</a>
+        <br>
+        2958. 세 수
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2985.%E2%80%85%EC%84%B8%E2%80%85%EC%88%98/%EC%84%B8%E2%80%85%EC%88%98.cc">[C++]</a>
     </p>
     <!--Bronze V-->
     <img src="https://img.shields.io/badge/-Bronze V-AD5600">
     <p>
+        4714. Lunacy
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/4714.%E2%80%85Lunacy/Lunacy.cc">[C++]</a>
+        <br>
         15727. 조별과제를 하려는데 조장이 사라졌다
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/15727.%E2%80%85%EC%A1%B0%EB%B3%84%EA%B3%BC%EC%A0%9C%EB%A5%BC%E2%80%85%ED%95%98%EB%A0%A4%EB%8A%94%EB%8D%B0%E2%80%85%EC%A1%B0%EC%9E%A5%EC%9D%B4%E2%80%85%EC%82%AC%EB%9D%BC%EC%A1%8C%EB%8B%A4/%EC%A1%B0%EB%B3%84%EA%B3%BC%EC%A0%9C%EB%A5%BC%E2%80%85%ED%95%98%EB%A0%A4%EB%8A%94%EB%8D%B0%E2%80%85%EC%A1%B0%EC%9E%A5%EC%9D%B4%E2%80%85%EC%82%AC%EB%9D%BC%EC%A1%8C%EB%8B%A4.cc">[C++]</a>
         <br>
         26082. WARBOY
-        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/26082.%E2%80%85WARBOY/WARBOY.cc">[C++]</a>
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/26082.%E2%80%85WARBOY/WARBOY.cc">[C++]</a>        
     </p>
 </div>
 
@@ -119,5 +141,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
         42884. 단속카메라
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv3/42884.%E2%80%85%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.cpp">[C++]</a>
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv3/42884.%E2%80%85%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.py">[Python3]</a>
+        <br>
+        152995. 인사고과
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv3/152995.%E2%80%85%EC%9D%B8%EC%82%AC%EA%B3%A0%EA%B3%BC/%EC%9D%B8%EC%82%AC%EA%B3%A0%EA%B3%BC.cpp">[C++]</a>
     </p>
 </div>
