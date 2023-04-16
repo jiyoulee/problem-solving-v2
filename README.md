@@ -49,6 +49,18 @@ Automatic push features are supported by [BaekjoonHub](https://github.com/Baekjo
     <!--Gold IV-->
     <img src="https://img.shields.io/badge/-Gold IV-EC9A00">
     <p>
+        1967. 트리의 지름
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Gold/1967.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EC%A7%80%EB%A6%84/%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EC%A7%80%EB%A6%84.cc">[C++]</a>
+        <br>
+        2636. 치즈
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Gold/2636.%E2%80%85%EC%B9%98%EC%A6%88/%EC%B9%98%EC%A6%88.cc">[C++]</a>
+        <br>
+        4179. 불!
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Gold/4179.%E2%80%85%EB%B6%88%EF%BC%81/%EB%B6%88%EF%BC%81.cc">[C++]</a>
+        <br>
+        9663. N-Queen
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Gold/9663.%E2%80%85N%EF%BC%8DQueen/N%EF%BC%8DQueen.cc">[C++]</a>
+        <br>
         17140. 이차원 배열과 연산
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Gold/17140.%E2%80%85%EC%9D%B4%EC%B0%A8%EC%9B%90%E2%80%85%EB%B0%B0%EC%97%B4%EA%B3%BC%E2%80%85%EC%97%B0%EC%82%B0/%EC%9D%B4%EC%B0%A8%EC%9B%90%E2%80%85%EB%B0%B0%EC%97%B4%EA%B3%BC%E2%80%85%EC%97%B0%EC%82%B0.cc">[C++]</a>
         <br>
@@ -78,6 +90,12 @@ Automatic push features are supported by [BaekjoonHub](https://github.com/Baekjo
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Silver/1711.%E2%80%85%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95/%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95.cc">[C++]</a>
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Silver/1711.%E2%80%85%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95/%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95.py">[Python3]</a>
         <br>
+        2583. 영역 구하기
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Silver/2583.%E2%80%85%EC%98%81%EC%97%AD%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/%EC%98%81%EC%97%AD%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0.cc">[C++]</a>
+        <br>
+        5014. 스타트링크
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Silver/5014.%E2%80%85%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC/%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC.cc">[C++]</a>
+        <br>
         11660. 구간 합 구하기 5
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Silver/11660.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%855/%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%855.cc">[C++]</a>
     </p>
@@ -86,6 +104,9 @@ Automatic push features are supported by [BaekjoonHub](https://github.com/Baekjo
     <p>
         1051. 숫자 정사각형
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Silver/1051.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/%EC%88%AB%EC%9E%90%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95.cc">[C++]</a>
+        <br>
+        2644. 촌수계산
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Silver/2644.%E2%80%85%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0/%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0.cc">[C++]</a>
     </p>
     <!--Silver V-->
     <img src="https://img.shields.io/badge/-Silver V-435F7A">
@@ -100,8 +121,20 @@ Automatic push features are supported by [BaekjoonHub](https://github.com/Baekjo
         1037. 약수
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1037.%E2%80%85%EC%95%BD%EC%88%98/%EC%95%BD%EC%88%98.cc">[C++]</a>
         <br>
+        1292. 쉽게 푸는 문제
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1292.%E2%80%85%EC%89%BD%EA%B2%8C%E2%80%85%ED%91%B8%EB%8A%94%E2%80%85%EB%AC%B8%EC%A0%9C/%EC%89%BD%EA%B2%8C%E2%80%85%ED%91%B8%EB%8A%94%E2%80%85%EB%AC%B8%EC%A0%9C.cc">[C++]</a>
+        <br>
         1855. 암호
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1855.%E2%80%85%EC%95%94%ED%98%B8/%EC%95%94%ED%98%B8.cc">[C++]</a>
+        <br>
+        2163. 초콜릿 자르기
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2163.%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0.cc">[C++]</a>
+    </p>
+    <!--Bronze II-->
+    <img src="https://img.shields.io/badge/-Bronze II-AD5600">
+    <p>
+        1075. 나누기
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1075.%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0/%EB%82%98%EB%88%84%EA%B8%B0.cc">[C++]</a>
     </p>
     <!--Bronze III-->
     <img src="https://img.shields.io/badge/-Bronze III-AD5600">
@@ -125,7 +158,10 @@ Automatic push features are supported by [BaekjoonHub](https://github.com/Baekjo
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/15727.%E2%80%85%EC%A1%B0%EB%B3%84%EA%B3%BC%EC%A0%9C%EB%A5%BC%E2%80%85%ED%95%98%EB%A0%A4%EB%8A%94%EB%8D%B0%E2%80%85%EC%A1%B0%EC%9E%A5%EC%9D%B4%E2%80%85%EC%82%AC%EB%9D%BC%EC%A1%8C%EB%8B%A4/%EC%A1%B0%EB%B3%84%EA%B3%BC%EC%A0%9C%EB%A5%BC%E2%80%85%ED%95%98%EB%A0%A4%EB%8A%94%EB%8D%B0%E2%80%85%EC%A1%B0%EC%9E%A5%EC%9D%B4%E2%80%85%EC%82%AC%EB%9D%BC%EC%A1%8C%EB%8B%A4.cc">[C++]</a>
         <br>
         26082. WARBOY
-        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/26082.%E2%80%85WARBOY/WARBOY.cc">[C++]</a>        
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/26082.%E2%80%85WARBOY/WARBOY.cc">[C++]</a>
+        <br>
+        26574. Copier
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/26574.%E2%80%85Copier/Copier.cc">[C++]</a>  
     </p>
 </div>
 
