@@ -187,14 +187,29 @@ Automatic push features are supported by [BaekjoonHub](https://github.com/Baekjo
         15727. 조별과제를 하려는데 조장이 사라졌다
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/15727.%E2%80%85%EC%A1%B0%EB%B3%84%EA%B3%BC%EC%A0%9C%EB%A5%BC%E2%80%85%ED%95%98%EB%A0%A4%EB%8A%94%EB%8D%B0%E2%80%85%EC%A1%B0%EC%9E%A5%EC%9D%B4%E2%80%85%EC%82%AC%EB%9D%BC%EC%A1%8C%EB%8B%A4/%EC%A1%B0%EB%B3%84%EA%B3%BC%EC%A0%9C%EB%A5%BC%E2%80%85%ED%95%98%EB%A0%A4%EB%8A%94%EB%8D%B0%E2%80%85%EC%A1%B0%EC%9E%A5%EC%9D%B4%E2%80%85%EC%82%AC%EB%9D%BC%EC%A1%8C%EB%8B%A4.cc">[C++]</a>
         <br>
+        15962. 새로운 시작
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/15962.%E2%80%85%EC%83%88%EB%A1%9C%EC%9A%B4%E2%80%85%EC%8B%9C%EC%9E%91/%EC%83%88%EB%A1%9C%EC%9A%B4%E2%80%85%EC%8B%9C%EC%9E%91.cc">[C++]</a>
+        <br>
+        20254. Site Score
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/20254.%E2%80%85Site%E2%80%85Score/Site%E2%80%85Score.cc">[C++]</a>
+        <br>
         23234. The World Responds
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/23234.%E2%80%85The%E2%80%85World%E2%80%85Responds/The%E2%80%85World%E2%80%85Responds.cc">[C++]</a>
+        <br>
+        24262. 알고리즘 수업 - 알고리즘의 수행 시간 1
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/24262.%E2%80%85%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%E2%80%85%EC%88%98%EC%97%85%E2%80%85%EF%BC%8D%E2%80%85%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%E2%80%85%EC%88%98%ED%96%89%E2%80%85%EC%8B%9C%EA%B0%84%E2%80%851/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%E2%80%85%EC%88%98%EC%97%85%E2%80%85%EF%BC%8D%E2%80%85%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%E2%80%85%EC%88%98%ED%96%89%E2%80%85%EC%8B%9C%EA%B0%84%E2%80%851.cc">[C++]</a>
         <br>
         24736. Football Scoring
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/24736.%E2%80%85Football%E2%80%85Scoring/Football%E2%80%85Scoring.cc">[C++]</a>
         <br>
+        25238. 가희와 방어율 무시
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/25238.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EB%B0%A9%EC%96%B4%EC%9C%A8%E2%80%85%EB%AC%B4%EC%8B%9C/%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EB%B0%A9%EC%96%B4%EC%9C%A8%E2%80%85%EB%AC%B4%EC%8B%9C.cc">[C++]</a>
+        <br>
         26082. WARBOY
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/26082.%E2%80%85WARBOY/WARBOY.cc">[C++]</a>
+        <br>
+        26209. Intercepting Information
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/26209.%E2%80%85Intercepting%E2%80%85Information/Intercepting%E2%80%85Information.cc">[C++]</a>
         <br>
         26574. Copier
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%EB%B0%B1%EC%A4%80/Bronze/26574.%E2%80%85Copier/Copier.cc">[C++]</a>
@@ -246,5 +261,11 @@ Automatic push features are supported by [BaekjoonHub](https://github.com/Baekjo
         <br>
         42885. 구명보트
         <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42885.%E2%80%85%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.cpp">[C++]</a>
+        <br>
+        43165. 타겟 넘버
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/43165.%E2%80%85%ED%83%80%EA%B2%9F%E2%80%85%EB%84%98%EB%B2%84/%ED%83%80%EA%B2%9F%E2%80%85%EB%84%98%EB%B2%84.cpp">[C++]</a>
+        <br>
+        60058. 괄호 변환
+        <a href="https://github.com/jiyoulee/problem-solving-v2/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/60058.%E2%80%85%EA%B4%84%ED%98%B8%E2%80%85%EB%B3%80%ED%99%98/%EA%B4%84%ED%98%B8%E2%80%85%EB%B3%80%ED%99%98.cpp">[C++]</a>
     </p>
 </div>
